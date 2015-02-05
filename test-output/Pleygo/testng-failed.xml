@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Pleygo]">
+  <test name="Signup Test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+          <include name="test_signup"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- Signup Test(failed) -->
+  <test name="Login test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="Login"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- Login test(failed) -->
+  <test name="Sets test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="addset"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- Sets test(failed) -->
+  <test name="Starter Plan test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="selectprice"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- Starter Plan test(failed) -->
+  <test name="ALl-Inclusive Plan test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="selectprice"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- ALl-Inclusive Plan test(failed) -->
+  <test name="HomePage Links test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+          <include name="HomePage_Links"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- HomePage Links test(failed) -->
+  <test name="LoginPage Links test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="loginPage_links"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- LoginPage Links test(failed) -->
+  <test name="Social Links test(failed)">
+    <classes>
+      <class name="TestCases.TestHomePage">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage -->
+      <class name="TestCases.TestLogin">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLogin -->
+      <class name="TestCases.TestLoginPage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestLoginPage_Links -->
+      <class name="TestCases.TestSocial_Links">
+        <methods>
+          <include name="Social_Links"/>
+          <include name="setup"/>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSocial_Links -->
+      <class name="TestCases.TestSets">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSets -->
+      <class name="TestCases.TestPricing_Inclusive">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Inclusive -->
+      <class name="TestCases.TestHomePage_Links">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestHomePage_Links -->
+      <class name="TestCases.TestPricing_Starter">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestPricing_Starter -->
+      <class name="TestCases.TestSignup">
+        <methods>
+          <include name="isExecutable"/>
+        </methods>
+      </class> <!-- TestCases.TestSignup -->
+    </classes>
+  </test> <!-- Social Links test(failed) -->
+</suite> <!-- Failed suite [Pleygo] -->

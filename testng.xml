@@ -1,0 +1,65 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Pleygo">
+
+
+ <test name="HomePage test">
+    <classes>
+        <class name="TestCases.TestHomePage" ></class>  
+    </classes>
+</test>
+
+<test name="Signup Test">
+    <classes>
+        <class name="TestCases.TestSignup" ></class>  
+    </classes>
+    </test>
+
+
+<test name="Login test">
+    <classes>
+        <class name="TestCases.TestLogin" ></class>  
+    </classes>
+</test>
+
+
+<test name="Sets test">
+    <classes>
+        <class name="TestCases.TestSets" ></class>  
+    </classes>
+</test>
+
+
+<test name="Starter Plan test">
+    <classes>
+        <class name="TestCases.TestPricing_Starter" ></class>  
+    </classes>
+</test>
+
+
+
+<test name="ALl-Inclusive Plan test">
+    <classes>
+        <class name="TestCases.TestPricing_Inclusive" ></class>  
+    </classes>
+</test>
+ 
+<test name="HomePage Links test">
+    <classes>
+        <class name="TestCases.TestHomePage_Links" ></class>  
+    </classes>
+</test>
+
+
+ <test name="LoginPage Links test">
+    <classes>
+        <class name="TestCases.TestLoginPage_Links" ></class>  
+    </classes>
+</test>
+
+
+<test name="Social Links test">
+    <classes>
+        <class name="TestCases.TestSocial_Links" ></class>  
+    </classes>
+</test>
+</suite>
